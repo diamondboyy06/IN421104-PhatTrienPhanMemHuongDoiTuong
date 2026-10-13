@@ -1,7 +1,10 @@
-# Office temporary files
+# Office and editor temporary files
 ~$*
 *.tmp
+.*.bkp
+*.bkp
 
 # OS generated files
 .DS_Store
 Thumbs.db
+
