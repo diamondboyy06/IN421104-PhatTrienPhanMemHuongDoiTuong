@@ -2,7 +2,7 @@
 ## HỌC PHẦN: PHÁT TRIỂN PHẦN MỀM HƯỚNG ĐỐI TƯỢNG (IN4211)
 - **Sinh viên thực hiện**: Lê Tuấn Kiệt
 - **Mã số sinh viên**: 0024417193
-- **Lớp**: Đại học Sư phạm Tin học / Công nghệ thông tin — Trường Đại học Đồng Tháp
+- **Lớp**: ĐHCNTT24B-IT — Trường Đại học Đồng Tháp
 
 ---
 

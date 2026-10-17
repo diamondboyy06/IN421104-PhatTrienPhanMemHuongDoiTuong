@@ -14,6 +14,7 @@ Console.InputEncoding = Encoding.UTF8;
 Console.WriteLine("=========================================================================");
 Console.WriteLine("          HỆ THỐNG QUẢN LÝ CÂU LẠC BỘ & SỰ KIỆN SINH VIÊN - EDUHUB        ");
 Console.WriteLine("               BÀI TẬP CHƯƠNG 2 (IN4211) - REFACTORING & PATTERNS        ");
+Console.WriteLine("          SV: Lê Tuấn Kiệt - MSSV: 0024417193 - Lớp: ĐHCNTT24B-IT         ");
 Console.WriteLine("=========================================================================\n");
 
 // ─── Composition root: Nơi DUY NHẤT dùng "new" cho class cụ thể (DIP) ───

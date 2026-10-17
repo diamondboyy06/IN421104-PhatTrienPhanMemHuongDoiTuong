@@ -3,6 +3,7 @@
 
 - **Sinh viên thực hiện**: Lê Tuấn Kiệt
 - **Mã số sinh viên**: 0024417193
+- **Lớp**: ĐHCNTT24B-IT
 - **Thư mục bài làm**: `OOP_0024417193/Ch2_0024417193`
 
 ---
