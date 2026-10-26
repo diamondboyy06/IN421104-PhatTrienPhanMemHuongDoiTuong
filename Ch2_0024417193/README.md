@@ -105,3 +105,14 @@ Chương trình sẽ tự động thực thi 5 kịch bản chính:
 3. Xuất báo cáo cùng một nguồn số liệu ra hai định dạng khác nhau (Console và CSV) qua Strategy.
 4. Tạo kênh thông báo động theo tham số Enum bằng Factory Method.
 5. Kiểm tra bẫy các ngoại lệ nghiệp vụ (`ArgumentException`, `InvalidOperationException`).
+
+
+---
+
+## 4. Tài Liệu Ôn Tập & Bảo Vệ Vấn Đáp
+- **Cẩm nang ôn tập vấn đáp chuyên sâu**: Xem chi tiết tại [**`docs/ON_TAP_VAN_DAP_VA_CHECKPOINT_CH02.md`**](docs/ON_TAP_VAN_DAP_VA_CHECKPOINT_CH02.md).
+- Bao gồm:
+  - 5 Câu hỏi Checkpoint cốt lõi trong slide bài giảng (Slide 70).
+  - 7 Câu hỏi bẫy kiến trúc thường gặp khi vấn đáp với Giảng viên (Decorator vs Kế thừa, ToList() trong Observer, Strategy vs State, Lifetimes DI Transient/Scoped/Singleton, Mock Verify, Composition Root).
+  - Bảng Cheatsheet so sánh nhanh mã nguồn cũ vs mã nguồn mới.
+  - Kịch bản 5 bước trình bày bảo vệ bài đạt điểm tối đa 10/10.
