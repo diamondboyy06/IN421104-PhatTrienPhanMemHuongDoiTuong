@@ -9,3 +9,4 @@ Quản lý bài làm của học phần phát triển phần mềm hướng đ�
 ## Danh Sách Bài Tập
 1. [Chương 1 (Ch1_0024417193)](Ch1_0024417193/): Thiết kế 5 thực thể miền nghiệp vụ EduHub, sơ đồ quan hệ lớp UML và Demo ứng dụng Console 8 kịch bản.
 2. [Chương 2 (Ch2_0024417193)](Ch2_0024417193/): Tái cấu trúc (Refactoring) God Class `ClubManager` theo nguyên lý SOLID & 4 Mẫu thiết kế (Factory Method, Decorator, Strategy, Observer) cùng bộ kiểm thử tự động xUnit AAA (21 tests Passed).
+3. [Chương 3 (Ch3_0024417193)](Ch3_0024417193/): Khung kiến trúc sạch (Clean Architecture 4 tầng) & RESTful Web API với ASP.NET Core (.NET 10), CQRS Handlers, Swagger UI và 5 bài kiểm thử xUnit + Moq (5 tests Passed).
